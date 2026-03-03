@@ -41,5 +41,9 @@ Dashboard interactivo para monitorear el volumen de tickets, categorías y estad
 
 ## Demostración en Video
 Puedes ver el sistema en funcionamiento (creación del ticket y llegada de la alerta) visualizando el siguiente video:
-[Haz clic aquí para ver el video de demostración](Video_demostracion_helpdesk.mp4)
+
+
+
+https://github.com/user-attachments/assets/5b002afe-2de8-4e6c-acbf-c504565021d1
+
 
